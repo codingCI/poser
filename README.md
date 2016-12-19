@@ -91,18 +91,6 @@ cd poser
 composer install
 ```
 
-- Run specs:
-
-``` bash
-./bin/phpspec run --format=pretty
-```
-
-- Then run behat:
-
-``` bash
-./bin/behat run
-```
-
 ## License
 
 [![License](https://poser.pugx.org/badges/poser/license.svg)](./LICENSE)
